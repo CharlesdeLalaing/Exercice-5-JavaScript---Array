@@ -22,6 +22,9 @@ console.log(tabExo);
 tabExo.unshift("un", "deux", "trois");
 console.log(tabExo);
 
+tabExo.reverse();
+console.log(tabExo);
+
 //7
 let elias = [];
 choix1 = prompt("que veux tu mettres dans ta boite?");
